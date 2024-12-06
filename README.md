@@ -40,16 +40,16 @@ Today we will apply this concept to data science. You will be given a dataset an
 - Your choice of features
 - Your choice of samples
  
- ### Submission
+### Submission
  
 The task is to predict if a person's income is in excess of $50,000 given certain profile information. 
 
 For your submission, you **must**:
 1. Generate the predicted probability that a given person's income will be **above** $50,000 for each row in the test set.
 2. Place these predicted probabilities in a single .csv file. Your .csv file should have _exactly_ one column named **`wage`**.
-3. Use the below Google form to submit **before 2:30 p.m. Eastern time**.
+3. Use [this Google form](https://forms.gle/KXz4UdGPszBUw6H68) to submit **before 2:30 p.m. Eastern time**.
 
-#### [Submission Link](https://forms.gle/KXz4UdGPszBUw6H68)
+**The winner will be the team whose model predictions yield the best AUC ROC score on the held out test set.**
 
 # ![](https://media.giphy.com/media/aL4bDxt8fbpy8/giphy.gif)
 
