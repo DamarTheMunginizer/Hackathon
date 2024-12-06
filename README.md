@@ -39,8 +39,6 @@ Today we will apply this concept to data science. You will be given a dataset an
 - **Must use a Random Forest**
 - Your choice of features
 - Your choice of samples
-
-# ![](https://media.giphy.com/media/aL4bDxt8fbpy8/giphy.gif)
  
  ### Submission
  
@@ -49,9 +47,11 @@ The task is to predict if a person's income is in excess of $50,000 given certai
 For your submission, you **must**:
 1. Generate the predicted probability that a given person's income will be **above** $50,000 for each row in the test set.
 2. Place these predicted probabilities in a single .csv file. Your .csv file should have _exactly_ one column named **`wage`**.
-3. Use the below Google form to submit before 2:30 p.m. Eastern time.
+3. Use the below Google form to submit **before 2:30 p.m. Eastern time**.
 
-#### [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSeKSkyg8x4UEKy1pcDqLEPiKJk184lTQvNVLaIdWnbg4Kh4eA/viewform?usp=sf_link)
+#### [Submission Link](https://forms.gle/KXz4UdGPszBUw6H68)
+
+# ![](https://media.giphy.com/media/aL4bDxt8fbpy8/giphy.gif)
 
 Good luck!
 
